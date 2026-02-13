@@ -10,5 +10,8 @@
 ✧ Always exploring, building, and improving
 </pre>
 <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
+<img src="https://github.com/user-attachments/assets/3252ebbb-1650-4801-b2fd-89283f1ee91e" alt="Coder" width="400" height="250" />
 </div>
+<h3>Where to find me</h3>
+<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="http://linkedin.com/in/raghad-al-masoud-4935aa30a" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
